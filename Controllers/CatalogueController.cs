@@ -18,6 +18,7 @@ namespace mycloud.Controllers
             return objResult;
         }
 
+
         [HttpGet("{id}")]
         public Product Get(int id)
         {
