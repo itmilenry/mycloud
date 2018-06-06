@@ -23,7 +23,7 @@ namespace mycloud.Controllers
         public IEnumerable<Installation2> Get(int id)
         {
             var context = new Models.mycloudContext();
-            var objResult = context.LinkCableInstallations.Where( i => i.Installation1Id == id ).Select( y => y.Installation2);
+            var objResult = context.LinkCableInstallations.Where( i => i.Installation1Id == id ).Select( y => y.Installation2).Distinct();
             return objResult;
         }
 
@@ -31,7 +31,7 @@ namespace mycloud.Controllers
         public IEnumerable<Installation3> Get(int id1, int id2)
         {
             var context = new Models.mycloudContext();
-            var objResult = context.LinkCableInstallations.Where( i => i.Installation1Id == id1 ).Where( i => i.Installation2Id == id2 ).Select( y => y.Installation3);
+            var objResult = context.LinkCableInstallations.Where( i => i.Installation1Id == id1 ).Where( i => i.Installation2Id == id2 ).Select( y => y.Installation3).Distinct();
             return objResult;
         }
 

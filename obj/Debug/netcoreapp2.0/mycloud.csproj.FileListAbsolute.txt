@@ -1,11 +1,22 @@
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\bin\Debug\netcoreapp2.0\mycloud.deps.json
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\bin\Debug\netcoreapp2.0\mycloud.runtimeconfig.json
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\bin\Debug\netcoreapp2.0\mycloud.runtimeconfig.dev.json
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\bin\Debug\netcoreapp2.0\mycloud.dll
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\bin\Debug\netcoreapp2.0\mycloud.pdb
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\obj\Debug\netcoreapp2.0\mycloud.csproj.CoreCompileInputs.cache
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\obj\Debug\netcoreapp2.0\mycloud.AssemblyInfoInputs.cache
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\obj\Debug\netcoreapp2.0\mycloud.AssemblyInfo.cs
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\obj\Debug\netcoreapp2.0\mycloud.dll
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\obj\Debug\netcoreapp2.0\mycloud.pdb
-C:\Users\miraen001\OneDrive - PRYSMIAN S.p.A\_Projects\Visual Studio Code\mycloud\obj\Debug\netcoreapp2.0\mycloud.csprojResolveAssemblyReference.cache
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/bin/Debug/netcoreapp2.0/mycloud.deps.json
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/bin/Debug/netcoreapp2.0/mycloud.runtimeconfig.json
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/bin/Debug/netcoreapp2.0/mycloud.runtimeconfig.dev.json
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/bin/Debug/netcoreapp2.0/mycloud.dll
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/bin/Debug/netcoreapp2.0/mycloud.pdb
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/obj/Debug/netcoreapp2.0/mycloud.csproj.CoreCompileInputs.cache
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/obj/Debug/netcoreapp2.0/mycloud.AssemblyInfoInputs.cache
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/obj/Debug/netcoreapp2.0/mycloud.AssemblyInfo.cs
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/obj/Debug/netcoreapp2.0/mycloud.dll
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/obj/Debug/netcoreapp2.0/mycloud.pdb
+C:/Users/miraen001/OneDrive - PRYSMIAN S.p.A/_Projects/Visual Studio Code/mycloud/obj/Debug/netcoreapp2.0/mycloud.csprojResolveAssemblyReference.cache
+/home/emira/Documenti/visual-studio-code/mycloud/bin/Debug/netcoreapp2.0/mycloud.deps.json
+/home/emira/Documenti/visual-studio-code/mycloud/bin/Debug/netcoreapp2.0/mycloud.runtimeconfig.json
+/home/emira/Documenti/visual-studio-code/mycloud/bin/Debug/netcoreapp2.0/mycloud.runtimeconfig.dev.json
+/home/emira/Documenti/visual-studio-code/mycloud/bin/Debug/netcoreapp2.0/mycloud.dll
+/home/emira/Documenti/visual-studio-code/mycloud/bin/Debug/netcoreapp2.0/mycloud.pdb
+/home/emira/Documenti/visual-studio-code/mycloud/obj/Debug/netcoreapp2.0/mycloud.csprojAssemblyReference.cache
+/home/emira/Documenti/visual-studio-code/mycloud/obj/Debug/netcoreapp2.0/mycloud.csproj.CoreCompileInputs.cache
+/home/emira/Documenti/visual-studio-code/mycloud/obj/Debug/netcoreapp2.0/mycloud.AssemblyInfoInputs.cache
+/home/emira/Documenti/visual-studio-code/mycloud/obj/Debug/netcoreapp2.0/mycloud.AssemblyInfo.cs
+/home/emira/Documenti/visual-studio-code/mycloud/obj/Debug/netcoreapp2.0/mycloud.dll
+/home/emira/Documenti/visual-studio-code/mycloud/obj/Debug/netcoreapp2.0/mycloud.pdb
